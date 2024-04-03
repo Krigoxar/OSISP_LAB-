@@ -9,4 +9,4 @@ clean: first second
 first:
 	rm prog
 second:
-	rm -r .vscode
+#	rm -r .vscode
